@@ -1,0 +1,3008 @@
+{
+  "2024-01": {
+    "kpis_geral": {
+      "receita_total": 0.0,
+      "total_vendas": 1,
+      "ticket_medio": 0.0
+    },
+    "kpis_apple": {
+      "receita_total": 0.0,
+      "total_vendas": 1,
+      "ticket_medio": 0.0
+    },
+    "kpis_acessorios": {
+      "receita_total": 0.0,
+      "total_vendas": 0,
+      "ticket_medio": 0
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Indicação",
+        "total_vendas": 1,
+        "receita_total": 0.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 1,
+        "receita_total": 0.0
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 1,
+        "receita_total": 0.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 0.0,
+        "total_vendas_acessorios": 0.0,
+        "receita_total_acessorios": 0.0
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2024-01-24",
+        "total_vendas": 1,
+        "receita_total": 0.0
+      }
+    ]
+  },
+  "2025-01": {
+    "kpis_geral": {
+      "receita_total": 0.0,
+      "total_vendas": 83,
+      "ticket_medio": 0.0
+    },
+    "kpis_apple": {
+      "receita_total": 0.0,
+      "total_vendas": 83,
+      "ticket_medio": 0.0
+    },
+    "kpis_acessorios": {
+      "receita_total": 0.0,
+      "total_vendas": 0,
+      "ticket_medio": 0
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Amigos",
+        "total_vendas": 3,
+        "receita_total": 0.0,
+        "total_vendas_apple": 3,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      },
+      {
+        "Origem": "Cliente",
+        "total_vendas": 34,
+        "receita_total": 0.0,
+        "total_vendas_apple": 34,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      },
+      {
+        "Origem": "Google",
+        "total_vendas": 1,
+        "receita_total": 0.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 20,
+        "receita_total": 0.0,
+        "total_vendas_apple": 20,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      },
+      {
+        "Origem": "Instagram",
+        "total_vendas": 1,
+        "receita_total": 0.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 1,
+        "receita_total": 0.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      },
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 23,
+        "receita_total": 0.0,
+        "total_vendas_apple": 23,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 1,
+        "receita_total": 0.0
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 1,
+        "receita_total": 0.0
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 7,
+        "receita_total": 0.0
+      },
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 68,
+        "receita_total": 0.0
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 4,
+        "receita_total": 0.0
+      },
+      {
+        "Produtos": "MAGIC KEYBOARD",
+        "total_vendas": 1,
+        "receita_total": 0.0
+      },
+      {
+        "Produtos": "PENCIL",
+        "total_vendas": 1,
+        "receita_total": 0.0
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 41,
+        "receita_total": 0.0,
+        "total_vendas_apple": 41,
+        "receita_total_apple": 0.0,
+        "total_vendas_acessorios": 0.0,
+        "receita_total_acessorios": 0.0
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 15,
+        "receita_total": 0.0,
+        "total_vendas_apple": 15,
+        "receita_total_apple": 0.0,
+        "total_vendas_acessorios": 0.0,
+        "receita_total_acessorios": 0.0
+      },
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 27,
+        "receita_total": 0.0,
+        "total_vendas_apple": 27,
+        "receita_total_apple": 0.0,
+        "total_vendas_acessorios": 0.0,
+        "receita_total_acessorios": 0.0
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-01-06",
+        "total_vendas": 5,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-07",
+        "total_vendas": 5,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-08",
+        "total_vendas": 5,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-09",
+        "total_vendas": 7,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-10",
+        "total_vendas": 3,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-11",
+        "total_vendas": 2,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-14",
+        "total_vendas": 5,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-15",
+        "total_vendas": 3,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-16",
+        "total_vendas": 5,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-17",
+        "total_vendas": 2,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-18",
+        "total_vendas": 5,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-20",
+        "total_vendas": 2,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-21",
+        "total_vendas": 3,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-22",
+        "total_vendas": 3,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-23",
+        "total_vendas": 2,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-24",
+        "total_vendas": 6,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-25",
+        "total_vendas": 5,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-27",
+        "total_vendas": 2,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-28",
+        "total_vendas": 3,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-29",
+        "total_vendas": 3,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-30",
+        "total_vendas": 3,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-01-31",
+        "total_vendas": 4,
+        "receita_total": 0.0
+      }
+    ]
+  },
+  "2025-02": {
+    "kpis_geral": {
+      "receita_total": 291232.68000000005,
+      "total_vendas": 155,
+      "ticket_medio": 1878.9205161290326
+    },
+    "kpis_apple": {
+      "receita_total": 275759.49,
+      "total_vendas": 101,
+      "ticket_medio": 2730.2919801980197
+    },
+    "kpis_acessorios": {
+      "receita_total": 15473.19,
+      "total_vendas": 54,
+      "ticket_medio": 286.54055555555556
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Cliente",
+        "total_vendas": 54,
+        "receita_total": 108511.55,
+        "total_vendas_apple": 36.0,
+        "receita_total_apple": 103735.54000000001,
+        "ticket_medio_apple": 2881.542777777778
+      },
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 43,
+        "receita_total": 99924.11,
+        "total_vendas_apple": 31.0,
+        "receita_total_apple": 95833.12,
+        "ticket_medio_apple": 3091.390967741935
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 28,
+        "receita_total": 42181.59,
+        "total_vendas_apple": 21.0,
+        "receita_total_apple": 40913.07,
+        "ticket_medio_apple": 1948.2414285714285
+      },
+      {
+        "Origem": "Google",
+        "total_vendas": 6,
+        "receita_total": 17750.0,
+        "total_vendas_apple": 6.0,
+        "receita_total_apple": 17750.0,
+        "ticket_medio_apple": 2958.3333333333335
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 7,
+        "receita_total": 11136.89,
+        "total_vendas_apple": 3.0,
+        "receita_total_apple": 9816.89,
+        "ticket_medio_apple": 3272.2966666666666
+      },
+      {
+        "Origem": "Amigos",
+        "total_vendas": 7,
+        "receita_total": 8910.880000000001,
+        "total_vendas_apple": 4.0,
+        "receita_total_apple": 7710.87,
+        "ticket_medio_apple": 1927.7175
+      },
+      {
+        "Origem": "nan",
+        "total_vendas": 10,
+        "receita_total": 2817.66,
+        "total_vendas_apple": 0.0,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 79,
+        "receita_total": 237283.1
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 7,
+        "receita_total": 15550.0
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 54,
+        "receita_total": 15473.19
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 7,
+        "receita_total": 13190.79
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 6,
+        "receita_total": 7985.6
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 2,
+        "receita_total": 1750.0
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 65,
+        "receita_total": 131173.69,
+        "total_vendas_apple": 40,
+        "receita_total_apple": 123767.71,
+        "total_vendas_acessorios": 25,
+        "receita_total_acessorios": 7405.98
+      },
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 65,
+        "receita_total": 119312.43,
+        "total_vendas_apple": 43,
+        "receita_total_apple": 112972.58,
+        "total_vendas_acessorios": 22,
+        "receita_total_acessorios": 6339.85
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 25,
+        "receita_total": 40746.56,
+        "total_vendas_apple": 18,
+        "receita_total_apple": 39019.2,
+        "total_vendas_acessorios": 7,
+        "receita_total_acessorios": 1727.3600000000001
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-02-01",
+        "total_vendas": 8,
+        "receita_total": 1543.9099999999999
+      },
+      {
+        "Data": "2025-02-03",
+        "total_vendas": 5,
+        "receita_total": 450.0
+      },
+      {
+        "Data": "2025-02-04",
+        "total_vendas": 3,
+        "receita_total": 270.0
+      },
+      {
+        "Data": "2025-02-05",
+        "total_vendas": 7,
+        "receita_total": 529.4100000000001
+      },
+      {
+        "Data": "2025-02-06",
+        "total_vendas": 2,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-02-07",
+        "total_vendas": 16,
+        "receita_total": 1523.46
+      },
+      {
+        "Data": "2025-02-08",
+        "total_vendas": 4,
+        "receita_total": 670.0
+      },
+      {
+        "Data": "2025-02-10",
+        "total_vendas": 7,
+        "receita_total": 468.46
+      },
+      {
+        "Data": "2025-02-11",
+        "total_vendas": 8,
+        "receita_total": 79.44
+      },
+      {
+        "Data": "2025-02-12",
+        "total_vendas": 5,
+        "receita_total": 646.53
+      },
+      {
+        "Data": "2025-02-13",
+        "total_vendas": 2,
+        "receita_total": 450.0
+      },
+      {
+        "Data": "2025-02-14",
+        "total_vendas": 10,
+        "receita_total": 42315.37
+      },
+      {
+        "Data": "2025-02-15",
+        "total_vendas": 7,
+        "receita_total": 25069.84
+      },
+      {
+        "Data": "2025-02-17",
+        "total_vendas": 6,
+        "receita_total": 25912.52
+      },
+      {
+        "Data": "2025-02-18",
+        "total_vendas": 11,
+        "receita_total": 35709.79
+      },
+      {
+        "Data": "2025-02-19",
+        "total_vendas": 1,
+        "receita_total": 520.0
+      },
+      {
+        "Data": "2025-02-20",
+        "total_vendas": 1,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-02-21",
+        "total_vendas": 8,
+        "receita_total": 21087.98
+      },
+      {
+        "Data": "2025-02-22",
+        "total_vendas": 9,
+        "receita_total": 33598.51
+      },
+      {
+        "Data": "2025-02-24",
+        "total_vendas": 8,
+        "receita_total": 24985.66
+      },
+      {
+        "Data": "2025-02-25",
+        "total_vendas": 5,
+        "receita_total": 16202.0
+      },
+      {
+        "Data": "2025-02-26",
+        "total_vendas": 3,
+        "receita_total": 10160.869999999999
+      },
+      {
+        "Data": "2025-02-27",
+        "total_vendas": 7,
+        "receita_total": 15622.93
+      },
+      {
+        "Data": "2025-02-28",
+        "total_vendas": 12,
+        "receita_total": 33416.0
+      }
+    ]
+  },
+  "2025-03": {
+    "kpis_geral": {
+      "receita_total": 282242.86000000004,
+      "total_vendas": 156,
+      "ticket_medio": 1809.249102564103
+    },
+    "kpis_apple": {
+      "receita_total": 265226.0,
+      "total_vendas": 100,
+      "ticket_medio": 2652.26
+    },
+    "kpis_acessorios": {
+      "receita_total": 17016.86,
+      "total_vendas": 56,
+      "ticket_medio": 303.8725
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 72,
+        "receita_total": 128247.65,
+        "total_vendas_apple": 46,
+        "receita_total_apple": 120471.73,
+        "ticket_medio_apple": 2618.950652173913
+      },
+      {
+        "Origem": "Cliente",
+        "total_vendas": 51,
+        "receita_total": 110006.69,
+        "total_vendas_apple": 34,
+        "receita_total_apple": 104233.77,
+        "ticket_medio_apple": 3065.6991176470588
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 20,
+        "receita_total": 31623.94,
+        "total_vendas_apple": 13,
+        "receita_total_apple": 29770.489999999998,
+        "ticket_medio_apple": 2290.037692307692
+      },
+      {
+        "Origem": "Instagram",
+        "total_vendas": 3,
+        "receita_total": 5779.5,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 5350.0,
+        "ticket_medio_apple": 5350.0
+      },
+      {
+        "Origem": "Amigos",
+        "total_vendas": 6,
+        "receita_total": 4000.01,
+        "total_vendas_apple": 4,
+        "receita_total_apple": 3450.01,
+        "ticket_medio_apple": 862.5025
+      },
+      {
+        "Origem": "Google",
+        "total_vendas": 1,
+        "receita_total": 1950.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 1950.0,
+        "ticket_medio_apple": 1950.0
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 3,
+        "receita_total": 635.0699999999999,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 0.0,
+        "ticket_medio_apple": 0.0
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 74,
+        "receita_total": 192003.13
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 9,
+        "receita_total": 53403.07
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 56,
+        "receita_total": 17016.86
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 8,
+        "receita_total": 10950.0
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 6,
+        "receita_total": 8869.8
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 3,
+        "receita_total": 0.0
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 65,
+        "receita_total": 125299.82,
+        "total_vendas_apple": 40,
+        "receita_total_apple": 117612.49,
+        "total_vendas_acessorios": 25,
+        "receita_total_acessorios": 7687.33
+      },
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 73,
+        "receita_total": 110899.24,
+        "total_vendas_apple": 48,
+        "receita_total_apple": 103560.44,
+        "total_vendas_acessorios": 25,
+        "receita_total_acessorios": 7338.8
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 18,
+        "receita_total": 46043.8,
+        "total_vendas_apple": 12,
+        "receita_total_apple": 44053.07,
+        "total_vendas_acessorios": 6,
+        "receita_total_acessorios": 1990.73
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-03-01",
+        "total_vendas": 2,
+        "receita_total": 466.73
+      },
+      {
+        "Data": "2025-03-03",
+        "total_vendas": 3,
+        "receita_total": 436.13
+      },
+      {
+        "Data": "2025-03-04",
+        "total_vendas": 4,
+        "receita_total": 300.0
+      },
+      {
+        "Data": "2025-03-05",
+        "total_vendas": 4,
+        "receita_total": 7696.72
+      },
+      {
+        "Data": "2025-03-06",
+        "total_vendas": 7,
+        "receita_total": 557.48
+      },
+      {
+        "Data": "2025-03-07",
+        "total_vendas": 6,
+        "receita_total": 482.73
+      },
+      {
+        "Data": "2025-03-08",
+        "total_vendas": 10,
+        "receita_total": 870.76
+      },
+      {
+        "Data": "2025-03-10",
+        "total_vendas": 5,
+        "receita_total": 100.0
+      },
+      {
+        "Data": "2025-03-11",
+        "total_vendas": 8,
+        "receita_total": 19666.83
+      },
+      {
+        "Data": "2025-03-12",
+        "total_vendas": 12,
+        "receita_total": 24260.43
+      },
+      {
+        "Data": "2025-03-13",
+        "total_vendas": 5,
+        "receita_total": 517.36
+      },
+      {
+        "Data": "2025-03-14",
+        "total_vendas": 9,
+        "receita_total": 32017.7
+      },
+      {
+        "Data": "2025-03-15",
+        "total_vendas": 6,
+        "receita_total": 6008.16
+      },
+      {
+        "Data": "2025-03-17",
+        "total_vendas": 10,
+        "receita_total": 45309.79
+      },
+      {
+        "Data": "2025-03-18",
+        "total_vendas": 6,
+        "receita_total": 286.85
+      },
+      {
+        "Data": "2025-03-19",
+        "total_vendas": 1,
+        "receita_total": 3100.01
+      },
+      {
+        "Data": "2025-03-20",
+        "total_vendas": 8,
+        "receita_total": 17867.35
+      },
+      {
+        "Data": "2025-03-21",
+        "total_vendas": 5,
+        "receita_total": 8480.01
+      },
+      {
+        "Data": "2025-03-22",
+        "total_vendas": 4,
+        "receita_total": 550.5
+      },
+      {
+        "Data": "2025-03-24",
+        "total_vendas": 7,
+        "receita_total": 1066.28
+      },
+      {
+        "Data": "2025-03-25",
+        "total_vendas": 1,
+        "receita_total": 0.0
+      },
+      {
+        "Data": "2025-03-26",
+        "total_vendas": 4,
+        "receita_total": 12778.07
+      },
+      {
+        "Data": "2025-03-27",
+        "total_vendas": 11,
+        "receita_total": 27515.72
+      },
+      {
+        "Data": "2025-03-28",
+        "total_vendas": 8,
+        "receita_total": 24376.510000000002
+      },
+      {
+        "Data": "2025-03-29",
+        "total_vendas": 5,
+        "receita_total": 29900.010000000002
+      },
+      {
+        "Data": "2025-03-31",
+        "total_vendas": 5,
+        "receita_total": 17630.73
+      }
+    ]
+  },
+  "2025-04": {
+    "kpis_geral": {
+      "receita_total": 554745.27,
+      "total_vendas": 171,
+      "ticket_medio": 3244.1243859649126
+    },
+    "kpis_apple": {
+      "receita_total": 537342.99,
+      "total_vendas": 118,
+      "ticket_medio": 4553.754152542373
+    },
+    "kpis_acessorios": {
+      "receita_total": 17402.28,
+      "total_vendas": 53,
+      "ticket_medio": 328.3449056603773
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Indicação",
+        "total_vendas": 59,
+        "receita_total": 189806.64,
+        "total_vendas_apple": 40,
+        "receita_total_apple": 183048.94,
+        "ticket_medio_apple": 4576.2235
+      },
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 47,
+        "receita_total": 173171.6,
+        "total_vendas_apple": 32,
+        "receita_total_apple": 168898.98,
+        "ticket_medio_apple": 5278.093125
+      },
+      {
+        "Origem": "Cliente",
+        "total_vendas": 53,
+        "receita_total": 154520.32,
+        "total_vendas_apple": 38,
+        "receita_total_apple": 149645.06,
+        "ticket_medio_apple": 3938.027894736842
+      },
+      {
+        "Origem": "Google",
+        "total_vendas": 5,
+        "receita_total": 18430.0,
+        "total_vendas_apple": 3,
+        "receita_total_apple": 17750.0,
+        "ticket_medio_apple": 5916.666666666667
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 4,
+        "receita_total": 11116.710000000001,
+        "total_vendas_apple": 2,
+        "receita_total_apple": 10300.01,
+        "ticket_medio_apple": 5150.005
+      },
+      {
+        "Origem": "REVENDEDOR",
+        "total_vendas": 1,
+        "receita_total": 3500.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 3500.0,
+        "ticket_medio_apple": 3500.0
+      },
+      {
+        "Origem": "Amigos",
+        "total_vendas": 1,
+        "receita_total": 2600.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 2600.0,
+        "ticket_medio_apple": 2600.0
+      },
+      {
+        "Origem": "Outros",
+        "total_vendas": 1,
+        "receita_total": 1600.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 1600.0,
+        "ticket_medio_apple": 1600.0
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 84,
+        "receita_total": 414991.52
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 8,
+        "receita_total": 50756.45
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 13,
+        "receita_total": 46049.0
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 53,
+        "receita_total": 17402.28
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 4,
+        "receita_total": 13750.02
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 4,
+        "receita_total": 8596.0
+      },
+      {
+        "Produtos": "PENCIL",
+        "total_vendas": 4,
+        "receita_total": 2400.0
+      },
+      {
+        "Produtos": "MAGIC MOUSE",
+        "total_vendas": 1,
+        "receita_total": 800.0
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 90,
+        "receita_total": 296820.37,
+        "total_vendas_apple": 63,
+        "receita_total_apple": 287734.66,
+        "total_vendas_acessorios": 27,
+        "receita_total_acessorios": 9085.71
+      },
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 67,
+        "receita_total": 215943.29,
+        "total_vendas_apple": 42,
+        "receita_total_apple": 208335.97,
+        "total_vendas_acessorios": 25,
+        "receita_total_acessorios": 7607.32
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 14,
+        "receita_total": 41981.61,
+        "total_vendas_apple": 13,
+        "receita_total_apple": 41272.36,
+        "total_vendas_acessorios": 1,
+        "receita_total_acessorios": 709.25
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-04-01",
+        "total_vendas": 9,
+        "receita_total": 38947.32
+      },
+      {
+        "Data": "2025-04-02",
+        "total_vendas": 8,
+        "receita_total": 23532.89
+      },
+      {
+        "Data": "2025-04-03",
+        "total_vendas": 8,
+        "receita_total": 9504.95
+      },
+      {
+        "Data": "2025-04-04",
+        "total_vendas": 7,
+        "receita_total": 13328.75
+      },
+      {
+        "Data": "2025-04-05",
+        "total_vendas": 9,
+        "receita_total": 39956.36
+      },
+      {
+        "Data": "2025-04-07",
+        "total_vendas": 7,
+        "receita_total": 25092.62
+      },
+      {
+        "Data": "2025-04-08",
+        "total_vendas": 2,
+        "receita_total": 7481.5
+      },
+      {
+        "Data": "2025-04-09",
+        "total_vendas": 9,
+        "receita_total": 23488.34
+      },
+      {
+        "Data": "2025-04-10",
+        "total_vendas": 11,
+        "receita_total": 36014.07
+      },
+      {
+        "Data": "2025-04-11",
+        "total_vendas": 8,
+        "receita_total": 31879.29
+      },
+      {
+        "Data": "2025-04-12",
+        "total_vendas": 5,
+        "receita_total": 18119.0
+      },
+      {
+        "Data": "2025-04-14",
+        "total_vendas": 3,
+        "receita_total": 12296.38
+      },
+      {
+        "Data": "2025-04-15",
+        "total_vendas": 10,
+        "receita_total": 33750.0
+      },
+      {
+        "Data": "2025-04-16",
+        "total_vendas": 13,
+        "receita_total": 31348.94
+      },
+      {
+        "Data": "2025-04-17",
+        "total_vendas": 7,
+        "receita_total": 24515.6
+      },
+      {
+        "Data": "2025-04-18",
+        "total_vendas": 8,
+        "receita_total": 35002.19
+      },
+      {
+        "Data": "2025-04-19",
+        "total_vendas": 8,
+        "receita_total": 32766.22
+      },
+      {
+        "Data": "2025-04-21",
+        "total_vendas": 6,
+        "receita_total": 14042.14
+      },
+      {
+        "Data": "2025-04-22",
+        "total_vendas": 1,
+        "receita_total": 3501.12
+      },
+      {
+        "Data": "2025-04-23",
+        "total_vendas": 6,
+        "receita_total": 20396.96
+      },
+      {
+        "Data": "2025-04-24",
+        "total_vendas": 1,
+        "receita_total": 4299.0
+      },
+      {
+        "Data": "2025-04-25",
+        "total_vendas": 5,
+        "receita_total": 17400.010000000002
+      },
+      {
+        "Data": "2025-04-26",
+        "total_vendas": 9,
+        "receita_total": 26357.35
+      },
+      {
+        "Data": "2025-04-28",
+        "total_vendas": 1,
+        "receita_total": 60.0
+      },
+      {
+        "Data": "2025-04-29",
+        "total_vendas": 2,
+        "receita_total": 7775.0
+      },
+      {
+        "Data": "2025-04-30",
+        "total_vendas": 8,
+        "receita_total": 23889.27
+      }
+    ]
+  },
+  "2025-05": {
+    "kpis_geral": {
+      "receita_total": 529267.78,
+      "total_vendas": 145,
+      "ticket_medio": 3650.1226206896554
+    },
+    "kpis_apple": {
+      "receita_total": 513587.75,
+      "total_vendas": 96,
+      "ticket_medio": 5349.872395833333
+    },
+    "kpis_acessorios": {
+      "receita_total": 15680.029999999999,
+      "total_vendas": 49,
+      "ticket_medio": 320.0006122448979
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Cliente",
+        "total_vendas": 54,
+        "receita_total": 205918.06,
+        "total_vendas_apple": 37,
+        "receita_total_apple": 199347.02,
+        "ticket_medio_apple": 5387.757297297297
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 34,
+        "receita_total": 151280.81,
+        "total_vendas_apple": 24,
+        "receita_total_apple": 148686.98,
+        "ticket_medio_apple": 6195.2908333333335
+      },
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 47,
+        "receita_total": 151088.54,
+        "total_vendas_apple": 28,
+        "receita_total_apple": 145182.66,
+        "ticket_medio_apple": 5185.095
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 4,
+        "receita_total": 11611.08,
+        "total_vendas_apple": 3,
+        "receita_total_apple": 11371.08,
+        "ticket_medio_apple": 3790.36
+      },
+      {
+        "Origem": "Amigos",
+        "total_vendas": 5,
+        "receita_total": 7369.29,
+        "total_vendas_apple": 3,
+        "receita_total_apple": 7000.01,
+        "ticket_medio_apple": 2333.3366666666666
+      },
+      {
+        "Origem": "Outros",
+        "total_vendas": 1,
+        "receita_total": 2000.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 2000.0,
+        "ticket_medio_apple": 2000.0
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 71,
+        "receita_total": 379462.45
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 9,
+        "receita_total": 83433.0
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 7,
+        "receita_total": 19808.41
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 3,
+        "receita_total": 18599.989999999998
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 49,
+        "receita_total": 15680.029999999999
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 3,
+        "receita_total": 7212.8099999999995
+      },
+      {
+        "Produtos": "MAGIC KEYBOARD",
+        "total_vendas": 1,
+        "receita_total": 2771.1
+      },
+      {
+        "Produtos": "PENCIL",
+        "total_vendas": 2,
+        "receita_total": 2299.99
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 72,
+        "receita_total": 278226.73,
+        "total_vendas_apple": 48,
+        "receita_total_apple": 270010.97,
+        "total_vendas_acessorios": 24,
+        "receita_total_acessorios": 8215.76
+      },
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 53,
+        "receita_total": 182761.68,
+        "total_vendas_apple": 33,
+        "receita_total_apple": 176679.36,
+        "total_vendas_acessorios": 20,
+        "receita_total_acessorios": 6082.32
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 20,
+        "receita_total": 68279.37,
+        "total_vendas_apple": 15,
+        "receita_total_apple": 66897.42,
+        "total_vendas_acessorios": 5,
+        "receita_total_acessorios": 1381.95
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-05-02",
+        "total_vendas": 8,
+        "receita_total": 24167.72
+      },
+      {
+        "Data": "2025-05-03",
+        "total_vendas": 4,
+        "receita_total": 10890.0
+      },
+      {
+        "Data": "2025-05-06",
+        "total_vendas": 8,
+        "receita_total": 19555.41
+      },
+      {
+        "Data": "2025-05-07",
+        "total_vendas": 7,
+        "receita_total": 37023.08
+      },
+      {
+        "Data": "2025-05-08",
+        "total_vendas": 5,
+        "receita_total": 14106.33
+      },
+      {
+        "Data": "2025-05-09",
+        "total_vendas": 4,
+        "receita_total": 13315.26
+      },
+      {
+        "Data": "2025-05-10",
+        "total_vendas": 12,
+        "receita_total": 46686.36
+      },
+      {
+        "Data": "2025-05-12",
+        "total_vendas": 3,
+        "receita_total": 5872.22
+      },
+      {
+        "Data": "2025-05-13",
+        "total_vendas": 5,
+        "receita_total": 14510.29
+      },
+      {
+        "Data": "2025-05-14",
+        "total_vendas": 5,
+        "receita_total": 13559.019999999999
+      },
+      {
+        "Data": "2025-05-15",
+        "total_vendas": 1,
+        "receita_total": 7400.0
+      },
+      {
+        "Data": "2025-05-16",
+        "total_vendas": 5,
+        "receita_total": 15686.550000000001
+      },
+      {
+        "Data": "2025-05-17",
+        "total_vendas": 3,
+        "receita_total": 12718.75
+      },
+      {
+        "Data": "2025-05-19",
+        "total_vendas": 11,
+        "receita_total": 45029.17
+      },
+      {
+        "Data": "2025-05-20",
+        "total_vendas": 3,
+        "receita_total": 7281.9400000000005
+      },
+      {
+        "Data": "2025-05-21",
+        "total_vendas": 6,
+        "receita_total": 22503.86
+      },
+      {
+        "Data": "2025-05-22",
+        "total_vendas": 2,
+        "receita_total": 4630.01
+      },
+      {
+        "Data": "2025-05-23",
+        "total_vendas": 3,
+        "receita_total": 13150.0
+      },
+      {
+        "Data": "2025-05-24",
+        "total_vendas": 5,
+        "receita_total": 17959.16
+      },
+      {
+        "Data": "2025-05-26",
+        "total_vendas": 7,
+        "receita_total": 56567.0
+      },
+      {
+        "Data": "2025-05-27",
+        "total_vendas": 7,
+        "receita_total": 20629.989999999998
+      },
+      {
+        "Data": "2025-05-28",
+        "total_vendas": 8,
+        "receita_total": 20702.06
+      },
+      {
+        "Data": "2025-05-29",
+        "total_vendas": 7,
+        "receita_total": 28652.0
+      },
+      {
+        "Data": "2025-05-30",
+        "total_vendas": 11,
+        "receita_total": 42682.55
+      },
+      {
+        "Data": "2025-05-31",
+        "total_vendas": 5,
+        "receita_total": 13989.05
+      }
+    ]
+  },
+  "2025-06": {
+    "kpis_geral": {
+      "receita_total": 523159.43999999994,
+      "total_vendas": 149,
+      "ticket_medio": 3511.1371812080533
+    },
+    "kpis_apple": {
+      "receita_total": 507721.95000000007,
+      "total_vendas": 102,
+      "ticket_medio": 4977.666176470589
+    },
+    "kpis_acessorios": {
+      "receita_total": 15437.490000000002,
+      "total_vendas": 47,
+      "ticket_medio": 328.45723404255324
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Cliente",
+        "total_vendas": 55,
+        "receita_total": 198122.97,
+        "total_vendas_apple": 40,
+        "receita_total_apple": 193765.29,
+        "ticket_medio_apple": 4844.132250000001
+      },
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 52,
+        "receita_total": 190645.82,
+        "total_vendas_apple": 35,
+        "receita_total_apple": 183735.9,
+        "ticket_medio_apple": 5249.597142857143
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 37,
+        "receita_total": 121345.78,
+        "total_vendas_apple": 23,
+        "receita_total_apple": 117321.76,
+        "ticket_medio_apple": 5100.946086956522
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 3,
+        "receita_total": 6045.87,
+        "total_vendas_apple": 2,
+        "receita_total_apple": 5900.0,
+        "ticket_medio_apple": 2950.0
+      },
+      {
+        "Origem": "Amigos",
+        "total_vendas": 1,
+        "receita_total": 5899.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 5899.0,
+        "ticket_medio_apple": 5899.0
+      },
+      {
+        "Origem": "Outros",
+        "total_vendas": 1,
+        "receita_total": 1100.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 1100.0,
+        "ticket_medio_apple": 1100.0
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 78,
+        "receita_total": 417968.03
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 6,
+        "receita_total": 45341.96
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 7,
+        "receita_total": 23668.0
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 47,
+        "receita_total": 15437.49
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 4,
+        "receita_total": 9457.39
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 4,
+        "receita_total": 6474.46
+      },
+      {
+        "Produtos": "MAGIC KEYBOARD",
+        "total_vendas": 1,
+        "receita_total": 2800.0
+      },
+      {
+        "Produtos": "PENCIL",
+        "total_vendas": 2,
+        "receita_total": 2012.1100000000001
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 71,
+        "receita_total": 242977.37,
+        "total_vendas_apple": 47,
+        "receita_total_apple": 235674.97,
+        "total_vendas_acessorios": 24,
+        "receita_total_acessorios": 7302.4
+      },
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 57,
+        "receita_total": 205502.96,
+        "total_vendas_apple": 40,
+        "receita_total_apple": 198908.35,
+        "total_vendas_acessorios": 17,
+        "receita_total_acessorios": 6594.61
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 21,
+        "receita_total": 74679.11,
+        "total_vendas_apple": 15,
+        "receita_total_apple": 73138.63,
+        "total_vendas_acessorios": 6,
+        "receita_total_acessorios": 1540.48
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-06-02",
+        "total_vendas": 5,
+        "receita_total": 11019.0
+      },
+      {
+        "Data": "2025-06-03",
+        "total_vendas": 4,
+        "receita_total": 16176.880000000001
+      },
+      {
+        "Data": "2025-06-04",
+        "total_vendas": 11,
+        "receita_total": 40785.22
+      },
+      {
+        "Data": "2025-06-05",
+        "total_vendas": 5,
+        "receita_total": 11330.849999999999
+      },
+      {
+        "Data": "2025-06-06",
+        "total_vendas": 5,
+        "receita_total": 20755.739999999998
+      },
+      {
+        "Data": "2025-06-07",
+        "total_vendas": 9,
+        "receita_total": 30726.49
+      },
+      {
+        "Data": "2025-06-09",
+        "total_vendas": 7,
+        "receita_total": 27943.89
+      },
+      {
+        "Data": "2025-06-10",
+        "total_vendas": 12,
+        "receita_total": 43043.41
+      },
+      {
+        "Data": "2025-06-11",
+        "total_vendas": 7,
+        "receita_total": 28459.72
+      },
+      {
+        "Data": "2025-06-12",
+        "total_vendas": 2,
+        "receita_total": 4099.0
+      },
+      {
+        "Data": "2025-06-13",
+        "total_vendas": 10,
+        "receita_total": 31739.77
+      },
+      {
+        "Data": "2025-06-14",
+        "total_vendas": 2,
+        "receita_total": 6427.86
+      },
+      {
+        "Data": "2025-06-16",
+        "total_vendas": 2,
+        "receita_total": 6880.01
+      },
+      {
+        "Data": "2025-06-17",
+        "total_vendas": 7,
+        "receita_total": 22803.260000000002
+      },
+      {
+        "Data": "2025-06-18",
+        "total_vendas": 6,
+        "receita_total": 18013.55
+      },
+      {
+        "Data": "2025-06-19",
+        "total_vendas": 3,
+        "receita_total": 10163.07
+      },
+      {
+        "Data": "2025-06-20",
+        "total_vendas": 8,
+        "receita_total": 36776.630000000005
+      },
+      {
+        "Data": "2025-06-21",
+        "total_vendas": 4,
+        "receita_total": 12445.27
+      },
+      {
+        "Data": "2025-06-23",
+        "total_vendas": 6,
+        "receita_total": 28393.29
+      },
+      {
+        "Data": "2025-06-24",
+        "total_vendas": 2,
+        "receita_total": 7477.31
+      },
+      {
+        "Data": "2025-06-25",
+        "total_vendas": 2,
+        "receita_total": 4906.66
+      },
+      {
+        "Data": "2025-06-26",
+        "total_vendas": 4,
+        "receita_total": 8145.87
+      },
+      {
+        "Data": "2025-06-27",
+        "total_vendas": 10,
+        "receita_total": 29574.59
+      },
+      {
+        "Data": "2025-06-28",
+        "total_vendas": 8,
+        "receita_total": 23056.100000000002
+      },
+      {
+        "Data": "2025-06-30",
+        "total_vendas": 8,
+        "receita_total": 42016.0
+      }
+    ]
+  },
+  "2025-07": {
+    "kpis_geral": {
+      "receita_total": 557584.01,
+      "total_vendas": 177,
+      "ticket_medio": 3150.1921468926553
+    },
+    "kpis_apple": {
+      "receita_total": 535939.42,
+      "total_vendas": 112,
+      "ticket_medio": 4785.173392857143
+    },
+    "kpis_acessorios": {
+      "receita_total": 21644.59,
+      "total_vendas": 65,
+      "ticket_medio": 332.9936923076923
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Cliente",
+        "total_vendas": 58,
+        "receita_total": 199148.0,
+        "total_vendas_apple": 39,
+        "receita_total_apple": 192553.62,
+        "ticket_medio_apple": 4937.272307692308
+      },
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 62,
+        "receita_total": 184056.19,
+        "total_vendas_apple": 41,
+        "receita_total_apple": 177515.95,
+        "ticket_medio_apple": 4329.657317073171
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 53,
+        "receita_total": 156575.84,
+        "total_vendas_apple": 29,
+        "receita_total_apple": 148296.08,
+        "ticket_medio_apple": 5113.657931034482
+      },
+      {
+        "Origem": "Google",
+        "total_vendas": 1,
+        "receita_total": 9673.57,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 9673.57,
+        "ticket_medio_apple": 9673.57
+      },
+      {
+        "Origem": "Instagram",
+        "total_vendas": 1,
+        "receita_total": 7200.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 7200.0,
+        "ticket_medio_apple": 7200.0
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 2,
+        "receita_total": 930.4100000000001,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 700.2,
+        "ticket_medio_apple": 700.2
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 84,
+        "receita_total": 412516.96
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 12,
+        "receita_total": 87094.79000000001
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 65,
+        "receita_total": 21644.59
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 6,
+        "receita_total": 18770.010000000002
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 4,
+        "receita_total": 9207.46
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 5,
+        "receita_total": 7650.0
+      },
+      {
+        "Produtos": "PENCIL",
+        "total_vendas": 1,
+        "receita_total": 700.2
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 88,
+        "receita_total": 280842.38,
+        "total_vendas_apple": 56,
+        "receita_total_apple": 271017.08,
+        "total_vendas_acessorios": 32.0,
+        "receita_total_acessorios": 9825.3
+      },
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 81,
+        "receita_total": 252784.96,
+        "total_vendas_apple": 52,
+        "receita_total_apple": 241579.19,
+        "total_vendas_acessorios": 29.0,
+        "receita_total_acessorios": 11205.77
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 7,
+        "receita_total": 16756.67,
+        "total_vendas_apple": 3,
+        "receita_total_apple": 16143.15,
+        "total_vendas_acessorios": 4.0,
+        "receita_total_acessorios": 613.52
+      },
+      {
+        "Atendente": "EMILY",
+        "total_vendas": 1,
+        "receita_total": 7200.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 7200.0,
+        "total_vendas_acessorios": 0.0,
+        "receita_total_acessorios": 0.0
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-07-01",
+        "total_vendas": 2,
+        "receita_total": 2630.0
+      },
+      {
+        "Data": "2025-07-03",
+        "total_vendas": 9,
+        "receita_total": 35264.21
+      },
+      {
+        "Data": "2025-07-04",
+        "total_vendas": 13,
+        "receita_total": 49978.97
+      },
+      {
+        "Data": "2025-07-05",
+        "total_vendas": 4,
+        "receita_total": 12359.08
+      },
+      {
+        "Data": "2025-07-07",
+        "total_vendas": 5,
+        "receita_total": 23230.02
+      },
+      {
+        "Data": "2025-07-08",
+        "total_vendas": 1,
+        "receita_total": 3250.0
+      },
+      {
+        "Data": "2025-07-09",
+        "total_vendas": 5,
+        "receita_total": 11021.36
+      },
+      {
+        "Data": "2025-07-10",
+        "total_vendas": 15,
+        "receita_total": 40576.18
+      },
+      {
+        "Data": "2025-07-11",
+        "total_vendas": 14,
+        "receita_total": 39651.8
+      },
+      {
+        "Data": "2025-07-12",
+        "total_vendas": 7,
+        "receita_total": 15779.560000000001
+      },
+      {
+        "Data": "2025-07-14",
+        "total_vendas": 6,
+        "receita_total": 20715.670000000002
+      },
+      {
+        "Data": "2025-07-15",
+        "total_vendas": 6,
+        "receita_total": 22065.27
+      },
+      {
+        "Data": "2025-07-16",
+        "total_vendas": 9,
+        "receita_total": 26727.559999999998
+      },
+      {
+        "Data": "2025-07-17",
+        "total_vendas": 4,
+        "receita_total": 12990.619999999999
+      },
+      {
+        "Data": "2025-07-18",
+        "total_vendas": 10,
+        "receita_total": 33446.67
+      },
+      {
+        "Data": "2025-07-19",
+        "total_vendas": 4,
+        "receita_total": 16332.58
+      },
+      {
+        "Data": "2025-07-21",
+        "total_vendas": 3,
+        "receita_total": 10993.279999999999
+      },
+      {
+        "Data": "2025-07-22",
+        "total_vendas": 9,
+        "receita_total": 17968.73
+      },
+      {
+        "Data": "2025-07-23",
+        "total_vendas": 4,
+        "receita_total": 12925.369999999999
+      },
+      {
+        "Data": "2025-07-24",
+        "total_vendas": 4,
+        "receita_total": 17629.11
+      },
+      {
+        "Data": "2025-07-25",
+        "total_vendas": 14,
+        "receita_total": 34682.4
+      },
+      {
+        "Data": "2025-07-28",
+        "total_vendas": 5,
+        "receita_total": 19963.84
+      },
+      {
+        "Data": "2025-07-29",
+        "total_vendas": 5,
+        "receita_total": 20684.78
+      },
+      {
+        "Data": "2025-07-30",
+        "total_vendas": 11,
+        "receita_total": 23926.95
+      },
+      {
+        "Data": "2025-07-31",
+        "total_vendas": 8,
+        "receita_total": 32790.0
+      }
+    ]
+  },
+  "2025-08": {
+    "kpis_geral": {
+      "receita_total": 616003.59,
+      "total_vendas": 249,
+      "ticket_medio": 2473.91
+    },
+    "kpis_apple": {
+      "receita_total": 591629.86,
+      "total_vendas": 117,
+      "ticket_medio": 5056.66547008547
+    },
+    "kpis_acessorios": {
+      "receita_total": 24373.730000000003,
+      "total_vendas": 132,
+      "ticket_medio": 184.64946969696973
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Cliente",
+        "total_vendas": 71,
+        "receita_total": 231577.61000000002,
+        "total_vendas_apple": 38,
+        "receita_total_apple": 224816.69,
+        "ticket_medio_apple": 5916.228684210527
+      },
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 98,
+        "receita_total": 213517.05,
+        "total_vendas_apple": 43,
+        "receita_total_apple": 204288.98,
+        "ticket_medio_apple": 4750.906511627907
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 55,
+        "receita_total": 104956.38,
+        "total_vendas_apple": 21,
+        "receita_total_apple": 98272.91,
+        "ticket_medio_apple": 4679.662380952381
+      },
+      {
+        "Origem": "Amigos",
+        "total_vendas": 13,
+        "receita_total": 32205.16,
+        "total_vendas_apple": 7,
+        "receita_total_apple": 31177.34,
+        "ticket_medio_apple": 4453.905714285715
+      },
+      {
+        "Origem": "Instagram",
+        "total_vendas": 2,
+        "receita_total": 14800.01,
+        "total_vendas_apple": 2,
+        "receita_total_apple": 14800.01,
+        "ticket_medio_apple": 7400.005
+      },
+      {
+        "Origem": "Google",
+        "total_vendas": 4,
+        "receita_total": 8123.44,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 7499.99,
+        "ticket_medio_apple": 7499.99
+      },
+      {
+        "Origem": "Outros",
+        "total_vendas": 4,
+        "receita_total": 8050.0,
+        "total_vendas_apple": 4,
+        "receita_total_apple": 8050.0,
+        "ticket_medio_apple": 2012.5
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 2,
+        "receita_total": 2773.94,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 2723.94,
+        "ticket_medio_apple": 2723.94
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 87,
+        "receita_total": 438136.36
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 7,
+        "receita_total": 92062.75
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 10,
+        "receita_total": 27776.87
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 132,
+        "receita_total": 24373.73
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 8,
+        "receita_total": 21404.88
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 3,
+        "receita_total": 9849.0
+      },
+      {
+        "Produtos": "MAGIC KEYBOARD",
+        "total_vendas": 1,
+        "receita_total": 1300.0
+      },
+      {
+        "Produtos": "PENCIL",
+        "total_vendas": 1,
+        "receita_total": 1100.0
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 134,
+        "receita_total": 351592.03,
+        "total_vendas_apple": 62.0,
+        "receita_total_apple": 339006.64,
+        "total_vendas_acessorios": 72,
+        "receita_total_acessorios": 12585.39
+      },
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 96,
+        "receita_total": 219509.14,
+        "total_vendas_apple": 44.0,
+        "receita_total_apple": 209200.71,
+        "total_vendas_acessorios": 52,
+        "receita_total_acessorios": 10308.43
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 15,
+        "receita_total": 44252.42,
+        "total_vendas_apple": 11.0,
+        "receita_total_apple": 43422.51,
+        "total_vendas_acessorios": 4,
+        "receita_total_acessorios": 829.9100000000001
+      },
+      {
+        "Atendente": "LARISSA",
+        "total_vendas": 4,
+        "receita_total": 650.0,
+        "total_vendas_apple": 0.0,
+        "receita_total_apple": 0.0,
+        "total_vendas_acessorios": 4,
+        "receita_total_acessorios": 650.0
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-08-01",
+        "total_vendas": 6,
+        "receita_total": 21442.84
+      },
+      {
+        "Data": "2025-08-04",
+        "total_vendas": 13,
+        "receita_total": 35162.21
+      },
+      {
+        "Data": "2025-08-05",
+        "total_vendas": 14,
+        "receita_total": 31455.41
+      },
+      {
+        "Data": "2025-08-06",
+        "total_vendas": 8,
+        "receita_total": 17939.66
+      },
+      {
+        "Data": "2025-08-07",
+        "total_vendas": 14,
+        "receita_total": 21440.52
+      },
+      {
+        "Data": "2025-08-08",
+        "total_vendas": 9,
+        "receita_total": 33676.27
+      },
+      {
+        "Data": "2025-08-09",
+        "total_vendas": 8,
+        "receita_total": 19491.87
+      },
+      {
+        "Data": "2025-08-11",
+        "total_vendas": 6,
+        "receita_total": 13197.27
+      },
+      {
+        "Data": "2025-08-12",
+        "total_vendas": 18,
+        "receita_total": 37786.88
+      },
+      {
+        "Data": "2025-08-13",
+        "total_vendas": 9,
+        "receita_total": 14666.980000000001
+      },
+      {
+        "Data": "2025-08-14",
+        "total_vendas": 12,
+        "receita_total": 21949.43
+      },
+      {
+        "Data": "2025-08-15",
+        "total_vendas": 7,
+        "receita_total": 12855.14
+      },
+      {
+        "Data": "2025-08-16",
+        "total_vendas": 7,
+        "receita_total": 13600.0
+      },
+      {
+        "Data": "2025-08-18",
+        "total_vendas": 11,
+        "receita_total": 27342.2
+      },
+      {
+        "Data": "2025-08-20",
+        "total_vendas": 12,
+        "receita_total": 36499.24
+      },
+      {
+        "Data": "2025-08-21",
+        "total_vendas": 12,
+        "receita_total": 36733.67
+      },
+      {
+        "Data": "2025-08-22",
+        "total_vendas": 11,
+        "receita_total": 15141.96
+      },
+      {
+        "Data": "2025-08-23",
+        "total_vendas": 20,
+        "receita_total": 41359.4
+      },
+      {
+        "Data": "2025-08-25",
+        "total_vendas": 6,
+        "receita_total": 8811.52
+      },
+      {
+        "Data": "2025-08-26",
+        "total_vendas": 13,
+        "receita_total": 77751.78
+      },
+      {
+        "Data": "2025-08-27",
+        "total_vendas": 5,
+        "receita_total": 10849.0
+      },
+      {
+        "Data": "2025-08-28",
+        "total_vendas": 3,
+        "receita_total": 8681.18
+      },
+      {
+        "Data": "2025-08-29",
+        "total_vendas": 13,
+        "receita_total": 27977.129999999997
+      },
+      {
+        "Data": "2025-08-30",
+        "total_vendas": 12,
+        "receita_total": 30192.03
+      }
+    ]
+  },
+  "2025-09": {
+    "kpis_geral": {
+      "receita_total": 554483.4410000001,
+      "total_vendas": 195,
+      "ticket_medio": 2843.5048256410264
+    },
+    "kpis_apple": {
+      "receita_total": 538633.7,
+      "total_vendas": 101,
+      "ticket_medio": 5333.006930693069
+    },
+    "kpis_acessorios": {
+      "receita_total": 15849.741,
+      "total_vendas": 94,
+      "ticket_medio": 168.6142659574468
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 65,
+        "receita_total": 189232.53,
+        "total_vendas_apple": 33,
+        "receita_total_apple": 183704.69,
+        "ticket_medio_apple": 5566.808787878788
+      },
+      {
+        "Origem": "Cliente",
+        "total_vendas": 60,
+        "receita_total": 188824.07,
+        "total_vendas_apple": 32,
+        "receita_total_apple": 184168.48,
+        "ticket_medio_apple": 5755.265
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 56,
+        "receita_total": 147409.071,
+        "total_vendas_apple": 31,
+        "receita_total_apple": 143453.52,
+        "ticket_medio_apple": 4627.532903225806
+      },
+      {
+        "Origem": "Amigos",
+        "total_vendas": 11,
+        "receita_total": 23927.010000000002,
+        "total_vendas_apple": 4,
+        "receita_total_apple": 22657.010000000002,
+        "ticket_medio_apple": 5664.2525000000005
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 3,
+        "receita_total": 5090.76,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 4650.0,
+        "ticket_medio_apple": 4650.0
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 70,
+        "receita_total": 396099.66
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 11,
+        "receita_total": 86592.22
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 10,
+        "receita_total": 33833.28
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 94,
+        "receita_total": 15849.741
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 3,
+        "receita_total": 11960.23
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 5,
+        "receita_total": 7948.3099999999995
+      },
+      {
+        "Produtos": "MAGIC KEYBOARD",
+        "total_vendas": 1,
+        "receita_total": 1300.0
+      },
+      {
+        "Produtos": "PENCIL",
+        "total_vendas": 1,
+        "receita_total": 900.0
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 112,
+        "receita_total": 301015.971,
+        "total_vendas_apple": 57,
+        "receita_total_apple": 292222.37,
+        "total_vendas_acessorios": 55.0,
+        "receita_total_acessorios": 8793.601
+      },
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 82,
+        "receita_total": 246830.17,
+        "total_vendas_apple": 43,
+        "receita_total_apple": 239774.03,
+        "total_vendas_acessorios": 39.0,
+        "receita_total_acessorios": 7056.14
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 1,
+        "receita_total": 6637.3,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 6637.3,
+        "total_vendas_acessorios": 0.0,
+        "receita_total_acessorios": 0.0
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-09-01",
+        "total_vendas": 4,
+        "receita_total": 22335.65
+      },
+      {
+        "Data": "2025-09-02",
+        "total_vendas": 5,
+        "receita_total": 15551.35
+      },
+      {
+        "Data": "2025-09-03",
+        "total_vendas": 4,
+        "receita_total": 17517.3
+      },
+      {
+        "Data": "2025-09-04",
+        "total_vendas": 4,
+        "receita_total": 5139.0
+      },
+      {
+        "Data": "2025-09-05",
+        "total_vendas": 10,
+        "receita_total": 34601.65
+      },
+      {
+        "Data": "2025-09-06",
+        "total_vendas": 3,
+        "receita_total": 11422.11
+      },
+      {
+        "Data": "2025-09-08",
+        "total_vendas": 3,
+        "receita_total": 13798.0
+      },
+      {
+        "Data": "2025-09-09",
+        "total_vendas": 25,
+        "receita_total": 55670.03
+      },
+      {
+        "Data": "2025-09-10",
+        "total_vendas": 9,
+        "receita_total": 24108.190000000002
+      },
+      {
+        "Data": "2025-09-11",
+        "total_vendas": 7,
+        "receita_total": 26824.79
+      },
+      {
+        "Data": "2025-09-12",
+        "total_vendas": 12,
+        "receita_total": 21926.87
+      },
+      {
+        "Data": "2025-09-13",
+        "total_vendas": 6,
+        "receita_total": 8567.07
+      },
+      {
+        "Data": "2025-09-15",
+        "total_vendas": 9,
+        "receita_total": 27058.59
+      },
+      {
+        "Data": "2025-09-16",
+        "total_vendas": 3,
+        "receita_total": 18356.02
+      },
+      {
+        "Data": "2025-09-17",
+        "total_vendas": 8,
+        "receita_total": 15213.23
+      },
+      {
+        "Data": "2025-09-18",
+        "total_vendas": 10,
+        "receita_total": 36435.681
+      },
+      {
+        "Data": "2025-09-20",
+        "total_vendas": 5,
+        "receita_total": 7704.62
+      },
+      {
+        "Data": "2025-09-22",
+        "total_vendas": 8,
+        "receita_total": 16037.56
+      },
+      {
+        "Data": "2025-09-23",
+        "total_vendas": 10,
+        "receita_total": 19098.989999999998
+      },
+      {
+        "Data": "2025-09-24",
+        "total_vendas": 3,
+        "receita_total": 23698.989999999998
+      },
+      {
+        "Data": "2025-09-25",
+        "total_vendas": 4,
+        "receita_total": 9582.98
+      },
+      {
+        "Data": "2025-09-26",
+        "total_vendas": 5,
+        "receita_total": 5428.0
+      },
+      {
+        "Data": "2025-09-27",
+        "total_vendas": 10,
+        "receita_total": 33233.9
+      },
+      {
+        "Data": "2025-09-29",
+        "total_vendas": 14,
+        "receita_total": 42734.89
+      },
+      {
+        "Data": "2025-09-30",
+        "total_vendas": 14,
+        "receita_total": 42437.98
+      }
+    ]
+  },
+  "2025-10": {
+    "kpis_geral": {
+      "receita_total": 670433.4600000001,
+      "total_vendas": 254,
+      "ticket_medio": 2639.5018110236224
+    },
+    "kpis_apple": {
+      "receita_total": 644898.84,
+      "total_vendas": 115,
+      "ticket_medio": 5607.816
+    },
+    "kpis_acessorios": {
+      "receita_total": 25534.620000000003,
+      "total_vendas": 139,
+      "ticket_medio": 183.7023021582734
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Cliente",
+        "total_vendas": 104,
+        "receita_total": 293026.59,
+        "total_vendas_apple": 45,
+        "receita_total_apple": 282143.62,
+        "ticket_medio_apple": 6269.858222222222
+      },
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 72,
+        "receita_total": 205255.36,
+        "total_vendas_apple": 36,
+        "receita_total_apple": 198051.75,
+        "ticket_medio_apple": 5501.4375
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 62,
+        "receita_total": 128247.73,
+        "total_vendas_apple": 26,
+        "receita_total_apple": 122122.53,
+        "ticket_medio_apple": 4697.0203846153845
+      },
+      {
+        "Origem": "Amigos",
+        "total_vendas": 12,
+        "receita_total": 31220.260000000002,
+        "total_vendas_apple": 5,
+        "receita_total_apple": 30041.1,
+        "ticket_medio_apple": 6008.219999999999
+      },
+      {
+        "Origem": "Google",
+        "total_vendas": 2,
+        "receita_total": 5833.450000000001,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 5689.77,
+        "ticket_medio_apple": 5689.77
+      },
+      {
+        "Origem": "Instagram",
+        "total_vendas": 1,
+        "receita_total": 5350.07,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 5350.07,
+        "ticket_medio_apple": 5350.07
+      },
+      {
+        "Origem": "Outros",
+        "total_vendas": 1,
+        "receita_total": 1500.0,
+        "total_vendas_apple": 1,
+        "receita_total_apple": 1500.0,
+        "ticket_medio_apple": 1500.0
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 88,
+        "receita_total": 525063.8
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 11,
+        "receita_total": 61683.03
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 8,
+        "receita_total": 27333.67
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 139,
+        "receita_total": 25534.62
+      },
+      {
+        "Produtos": "APPLE VISION",
+        "total_vendas": 1,
+        "receita_total": 15000.0
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 4,
+        "receita_total": 10230.41
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 3,
+        "receita_total": 5587.93
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 118,
+        "receita_total": 353761.26,
+        "total_vendas_apple": 58,
+        "receita_total_apple": 340492.2,
+        "total_vendas_acessorios": 60,
+        "receita_total_acessorios": 13269.06
+      },
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 106,
+        "receita_total": 237390.01,
+        "total_vendas_apple": 44,
+        "receita_total_apple": 227465.4,
+        "total_vendas_acessorios": 62,
+        "receita_total_acessorios": 9924.61
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 30,
+        "receita_total": 79282.19,
+        "total_vendas_apple": 13,
+        "receita_total_apple": 76941.24,
+        "total_vendas_acessorios": 17,
+        "receita_total_acessorios": 2340.95
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-10-01",
+        "total_vendas": 6,
+        "receita_total": 23410.61
+      },
+      {
+        "Data": "2025-10-02",
+        "total_vendas": 6,
+        "receita_total": 15669.55
+      },
+      {
+        "Data": "2025-10-03",
+        "total_vendas": 1,
+        "receita_total": 2100.0
+      },
+      {
+        "Data": "2025-10-04",
+        "total_vendas": 13,
+        "receita_total": 24992.07
+      },
+      {
+        "Data": "2025-10-06",
+        "total_vendas": 7,
+        "receita_total": 15311.89
+      },
+      {
+        "Data": "2025-10-07",
+        "total_vendas": 13,
+        "receita_total": 36850.8
+      },
+      {
+        "Data": "2025-10-08",
+        "total_vendas": 3,
+        "receita_total": 10320.0
+      },
+      {
+        "Data": "2025-10-09",
+        "total_vendas": 10,
+        "receita_total": 24313.3
+      },
+      {
+        "Data": "2025-10-10",
+        "total_vendas": 13,
+        "receita_total": 30555.7
+      },
+      {
+        "Data": "2025-10-11",
+        "total_vendas": 24,
+        "receita_total": 40860.6
+      },
+      {
+        "Data": "2025-10-13",
+        "total_vendas": 9,
+        "receita_total": 22982.57
+      },
+      {
+        "Data": "2025-10-14",
+        "total_vendas": 3,
+        "receita_total": 16900.0
+      },
+      {
+        "Data": "2025-10-15",
+        "total_vendas": 15,
+        "receita_total": 28675.58
+      },
+      {
+        "Data": "2025-10-16",
+        "total_vendas": 14,
+        "receita_total": 22717.97
+      },
+      {
+        "Data": "2025-10-17",
+        "total_vendas": 3,
+        "receita_total": 16480.0
+      },
+      {
+        "Data": "2025-10-18",
+        "total_vendas": 11,
+        "receita_total": 32422.6
+      },
+      {
+        "Data": "2025-10-20",
+        "total_vendas": 7,
+        "receita_total": 19533.59
+      },
+      {
+        "Data": "2025-10-21",
+        "total_vendas": 10,
+        "receita_total": 32267.039999999997
+      },
+      {
+        "Data": "2025-10-22",
+        "total_vendas": 8,
+        "receita_total": 16471.58
+      },
+      {
+        "Data": "2025-10-23",
+        "total_vendas": 12,
+        "receita_total": 25484.21
+      },
+      {
+        "Data": "2025-10-24",
+        "total_vendas": 6,
+        "receita_total": 27794.63
+      },
+      {
+        "Data": "2025-10-25",
+        "total_vendas": 10,
+        "receita_total": 26830.55
+      },
+      {
+        "Data": "2025-10-27",
+        "total_vendas": 9,
+        "receita_total": 19957.46
+      },
+      {
+        "Data": "2025-10-28",
+        "total_vendas": 8,
+        "receita_total": 36255.58
+      },
+      {
+        "Data": "2025-10-29",
+        "total_vendas": 18,
+        "receita_total": 56493.6
+      },
+      {
+        "Data": "2025-10-30",
+        "total_vendas": 6,
+        "receita_total": 12679.26
+      },
+      {
+        "Data": "2025-10-31",
+        "total_vendas": 9,
+        "receita_total": 32102.72
+      }
+    ]
+  },
+  "2025-11": {
+    "kpis_geral": {
+      "receita_total": 957351.3999999999,
+      "total_vendas": 349,
+      "ticket_medio": 2743.1272206303724
+    },
+    "kpis_apple": {
+      "receita_total": 922810.3899999999,
+      "total_vendas": 157,
+      "ticket_medio": 5877.7731847133755
+    },
+    "kpis_acessorios": {
+      "receita_total": 34541.01,
+      "total_vendas": 192,
+      "ticket_medio": 179.90109375
+    },
+    "vendas_por_origem": [
+      {
+        "Origem": "Cliente",
+        "total_vendas": 175,
+        "receita_total": 518035.37,
+        "total_vendas_apple": 77,
+        "receita_total_apple": 498911.03,
+        "ticket_medio_apple": 6479.364025974026
+      },
+      {
+        "Origem": "Indicação",
+        "total_vendas": 58,
+        "receita_total": 174001.96,
+        "total_vendas_apple": 26,
+        "receita_total_apple": 167989.51,
+        "ticket_medio_apple": 6461.135
+      },
+      {
+        "Origem": "Tráfego Pago",
+        "total_vendas": 82,
+        "receita_total": 173891.8,
+        "total_vendas_apple": 37,
+        "receita_total_apple": 167704.79,
+        "ticket_medio_apple": 4532.561891891892
+      },
+      {
+        "Origem": "Amigos",
+        "total_vendas": 19,
+        "receita_total": 49758.41,
+        "total_vendas_apple": 11,
+        "receita_total_apple": 47805.04,
+        "ticket_medio_apple": 4345.912727272727
+      },
+      {
+        "Origem": "Prédio",
+        "total_vendas": 8,
+        "receita_total": 24413.84,
+        "total_vendas_apple": 3,
+        "receita_total_apple": 23850.0,
+        "ticket_medio_apple": 7950.0
+      },
+      {
+        "Origem": "Google",
+        "total_vendas": 7,
+        "receita_total": 17250.02,
+        "total_vendas_apple": 3,
+        "receita_total_apple": 16550.02,
+        "ticket_medio_apple": 5516.673333333333
+      }
+    ],
+    "produtos_mais_vendidos": [
+      {
+        "Produtos": "IPHONE",
+        "total_vendas": 123,
+        "receita_total": 775442.73
+      },
+      {
+        "Produtos": "MACBOOK",
+        "total_vendas": 8,
+        "receita_total": 64847.840000000004
+      },
+      {
+        "Produtos": "APPLE WATCH",
+        "total_vendas": 11,
+        "receita_total": 37056.46
+      },
+      {
+        "Produtos": "ACESSÓRIOS",
+        "total_vendas": 192,
+        "receita_total": 34541.01
+      },
+      {
+        "Produtos": "IPAD",
+        "total_vendas": 7,
+        "receita_total": 20212.64
+      },
+      {
+        "Produtos": "APPLE VISION",
+        "total_vendas": 1,
+        "receita_total": 15000.0
+      },
+      {
+        "Produtos": "AIRPODS",
+        "total_vendas": 5,
+        "receita_total": 7900.7300000000005
+      },
+      {
+        "Produtos": "MAGIC KEYBOARD",
+        "total_vendas": 1,
+        "receita_total": 1200.0
+      },
+      {
+        "Produtos": "PENCIL",
+        "total_vendas": 1,
+        "receita_total": 1149.99
+      }
+    ],
+    "desempenho_atendentes": [
+      {
+        "Atendente": "Jainy",
+        "total_vendas": 162,
+        "receita_total": 429137.55,
+        "total_vendas_apple": 69,
+        "receita_total_apple": 413623.25,
+        "total_vendas_acessorios": 93,
+        "receita_total_acessorios": 15514.3
+      },
+      {
+        "Atendente": "RUAN",
+        "total_vendas": 154,
+        "receita_total": 405572.1,
+        "total_vendas_apple": 72,
+        "receita_total_apple": 390453.69,
+        "total_vendas_acessorios": 82,
+        "receita_total_acessorios": 15118.41
+      },
+      {
+        "Atendente": "Jeferson",
+        "total_vendas": 33,
+        "receita_total": 122641.75,
+        "total_vendas_apple": 16,
+        "receita_total_apple": 118733.45,
+        "total_vendas_acessorios": 17,
+        "receita_total_acessorios": 3908.3
+      }
+    ],
+    "vendas_diarias": [
+      {
+        "Data": "2025-11-01",
+        "total_vendas": 5,
+        "receita_total": 10588.39
+      },
+      {
+        "Data": "2025-11-03",
+        "total_vendas": 18,
+        "receita_total": 68062.27
+      },
+      {
+        "Data": "2025-11-04",
+        "total_vendas": 8,
+        "receita_total": 18234.86
+      },
+      {
+        "Data": "2025-11-05",
+        "total_vendas": 18,
+        "receita_total": 63519.17
+      },
+      {
+        "Data": "2025-11-06",
+        "total_vendas": 9,
+        "receita_total": 27098.63
+      },
+      {
+        "Data": "2025-11-07",
+        "total_vendas": 12,
+        "receita_total": 24421.31
+      },
+      {
+        "Data": "2025-11-08",
+        "total_vendas": 7,
+        "receita_total": 19013.58
+      },
+      {
+        "Data": "2025-11-10",
+        "total_vendas": 3,
+        "receita_total": 10260.0
+      },
+      {
+        "Data": "2025-11-11",
+        "total_vendas": 9,
+        "receita_total": 20196.75
+      },
+      {
+        "Data": "2025-11-12",
+        "total_vendas": 36,
+        "receita_total": 103472.23999999999
+      },
+      {
+        "Data": "2025-11-13",
+        "total_vendas": 17,
+        "receita_total": 28712.989999999998
+      },
+      {
+        "Data": "2025-11-14",
+        "total_vendas": 15,
+        "receita_total": 16418.81
+      },
+      {
+        "Data": "2025-11-15",
+        "total_vendas": 27,
+        "receita_total": 76123.34
+      },
+      {
+        "Data": "2025-11-17",
+        "total_vendas": 16,
+        "receita_total": 59669.42
+      },
+      {
+        "Data": "2025-11-18",
+        "total_vendas": 12,
+        "receita_total": 19909.45
+      },
+      {
+        "Data": "2025-11-19",
+        "total_vendas": 3,
+        "receita_total": 11761.31
+      },
+      {
+        "Data": "2025-11-20",
+        "total_vendas": 4,
+        "receita_total": 12450.0
+      },
+      {
+        "Data": "2025-11-21",
+        "total_vendas": 4,
+        "receita_total": 19573.0
+      },
+      {
+        "Data": "2025-11-22",
+        "total_vendas": 11,
+        "receita_total": 25296.31
+      },
+      {
+        "Data": "2025-11-24",
+        "total_vendas": 15,
+        "receita_total": 57446.78
+      },
+      {
+        "Data": "2025-11-25",
+        "total_vendas": 10,
+        "receita_total": 42011.729999999996
+      },
+      {
+        "Data": "2025-11-26",
+        "total_vendas": 22,
+        "receita_total": 61286.86
+      },
+      {
+        "Data": "2025-11-27",
+        "total_vendas": 23,
+        "receita_total": 55248.71
+      },
+      {
+        "Data": "2025-11-28",
+        "total_vendas": 27,
+        "receita_total": 73618.75
+      },
+      {
+        "Data": "2025-11-29",
+        "total_vendas": 18,
+        "receita_total": 32956.74
+      }
+    ]
+  }
+}

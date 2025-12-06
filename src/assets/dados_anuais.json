@@ -1,0 +1,278 @@
+{
+  "meses": [],
+  "resumo_geral": [
+    {
+      "mes": "Janeiro 2024",
+      "mes_key": "2024-01",
+      "receita_total": 0.0,
+      "total_vendas": 1,
+      "ticket_medio": 0.0
+    },
+    {
+      "mes": "Janeiro 2025",
+      "mes_key": "2025-01",
+      "receita_total": 0.0,
+      "total_vendas": 83,
+      "ticket_medio": 0.0
+    },
+    {
+      "mes": "Fevereiro 2025",
+      "mes_key": "2025-02",
+      "receita_total": 291232.68000000005,
+      "total_vendas": 155,
+      "ticket_medio": 1878.9205161290326
+    },
+    {
+      "mes": "Março 2025",
+      "mes_key": "2025-03",
+      "receita_total": 282242.86000000004,
+      "total_vendas": 156,
+      "ticket_medio": 1809.249102564103
+    },
+    {
+      "mes": "Abril 2025",
+      "mes_key": "2025-04",
+      "receita_total": 554745.27,
+      "total_vendas": 171,
+      "ticket_medio": 3244.1243859649126
+    },
+    {
+      "mes": "Maio 2025",
+      "mes_key": "2025-05",
+      "receita_total": 529267.78,
+      "total_vendas": 145,
+      "ticket_medio": 3650.1226206896554
+    },
+    {
+      "mes": "Junho 2025",
+      "mes_key": "2025-06",
+      "receita_total": 523159.43999999994,
+      "total_vendas": 149,
+      "ticket_medio": 3511.1371812080533
+    },
+    {
+      "mes": "Julho 2025",
+      "mes_key": "2025-07",
+      "receita_total": 557584.01,
+      "total_vendas": 177,
+      "ticket_medio": 3150.1921468926553
+    },
+    {
+      "mes": "Agosto 2025",
+      "mes_key": "2025-08",
+      "receita_total": 616003.59,
+      "total_vendas": 249,
+      "ticket_medio": 2473.91
+    },
+    {
+      "mes": "Setembro 2025",
+      "mes_key": "2025-09",
+      "receita_total": 554483.4410000001,
+      "total_vendas": 195,
+      "ticket_medio": 2843.5048256410264
+    },
+    {
+      "mes": "Outubro 2025",
+      "mes_key": "2025-10",
+      "receita_total": 670433.4600000001,
+      "total_vendas": 254,
+      "ticket_medio": 2639.5018110236224
+    },
+    {
+      "mes": "Novembro 2025",
+      "mes_key": "2025-11",
+      "receita_total": 957351.3999999999,
+      "total_vendas": 349,
+      "ticket_medio": 2743.1272206303724
+    }
+  ],
+  "resumo_apple": [
+    {
+      "mes": "Janeiro 2024",
+      "mes_key": "2024-01",
+      "receita_total": 0.0,
+      "total_vendas": 1,
+      "ticket_medio": 0.0
+    },
+    {
+      "mes": "Janeiro 2025",
+      "mes_key": "2025-01",
+      "receita_total": 0.0,
+      "total_vendas": 83,
+      "ticket_medio": 0.0
+    },
+    {
+      "mes": "Fevereiro 2025",
+      "mes_key": "2025-02",
+      "receita_total": 275759.49,
+      "total_vendas": 101,
+      "ticket_medio": 2730.2919801980197
+    },
+    {
+      "mes": "Março 2025",
+      "mes_key": "2025-03",
+      "receita_total": 265226.0,
+      "total_vendas": 100,
+      "ticket_medio": 2652.26
+    },
+    {
+      "mes": "Abril 2025",
+      "mes_key": "2025-04",
+      "receita_total": 537342.99,
+      "total_vendas": 118,
+      "ticket_medio": 4553.754152542373
+    },
+    {
+      "mes": "Maio 2025",
+      "mes_key": "2025-05",
+      "receita_total": 513587.75,
+      "total_vendas": 96,
+      "ticket_medio": 5349.872395833333
+    },
+    {
+      "mes": "Junho 2025",
+      "mes_key": "2025-06",
+      "receita_total": 507721.95000000007,
+      "total_vendas": 102,
+      "ticket_medio": 4977.666176470589
+    },
+    {
+      "mes": "Julho 2025",
+      "mes_key": "2025-07",
+      "receita_total": 535939.42,
+      "total_vendas": 112,
+      "ticket_medio": 4785.173392857143
+    },
+    {
+      "mes": "Agosto 2025",
+      "mes_key": "2025-08",
+      "receita_total": 591629.86,
+      "total_vendas": 117,
+      "ticket_medio": 5056.66547008547
+    },
+    {
+      "mes": "Setembro 2025",
+      "mes_key": "2025-09",
+      "receita_total": 538633.7,
+      "total_vendas": 101,
+      "ticket_medio": 5333.006930693069
+    },
+    {
+      "mes": "Outubro 2025",
+      "mes_key": "2025-10",
+      "receita_total": 644898.84,
+      "total_vendas": 115,
+      "ticket_medio": 5607.816
+    },
+    {
+      "mes": "Novembro 2025",
+      "mes_key": "2025-11",
+      "receita_total": 922810.3899999999,
+      "total_vendas": 157,
+      "ticket_medio": 5877.7731847133755
+    }
+  ],
+  "resumo_acessorios": [
+    {
+      "mes": "Janeiro 2024",
+      "mes_key": "2024-01",
+      "receita_total": 0.0,
+      "total_vendas": 0,
+      "ticket_medio": 0
+    },
+    {
+      "mes": "Janeiro 2025",
+      "mes_key": "2025-01",
+      "receita_total": 0.0,
+      "total_vendas": 0,
+      "ticket_medio": 0
+    },
+    {
+      "mes": "Fevereiro 2025",
+      "mes_key": "2025-02",
+      "receita_total": 15473.19,
+      "total_vendas": 54,
+      "ticket_medio": 286.54055555555556
+    },
+    {
+      "mes": "Março 2025",
+      "mes_key": "2025-03",
+      "receita_total": 17016.86,
+      "total_vendas": 56,
+      "ticket_medio": 303.8725
+    },
+    {
+      "mes": "Abril 2025",
+      "mes_key": "2025-04",
+      "receita_total": 17402.28,
+      "total_vendas": 53,
+      "ticket_medio": 328.3449056603773
+    },
+    {
+      "mes": "Maio 2025",
+      "mes_key": "2025-05",
+      "receita_total": 15680.029999999999,
+      "total_vendas": 49,
+      "ticket_medio": 320.0006122448979
+    },
+    {
+      "mes": "Junho 2025",
+      "mes_key": "2025-06",
+      "receita_total": 15437.490000000002,
+      "total_vendas": 47,
+      "ticket_medio": 328.45723404255324
+    },
+    {
+      "mes": "Julho 2025",
+      "mes_key": "2025-07",
+      "receita_total": 21644.59,
+      "total_vendas": 65,
+      "ticket_medio": 332.9936923076923
+    },
+    {
+      "mes": "Agosto 2025",
+      "mes_key": "2025-08",
+      "receita_total": 24373.730000000003,
+      "total_vendas": 132,
+      "ticket_medio": 184.64946969696973
+    },
+    {
+      "mes": "Setembro 2025",
+      "mes_key": "2025-09",
+      "receita_total": 15849.741,
+      "total_vendas": 94,
+      "ticket_medio": 168.6142659574468
+    },
+    {
+      "mes": "Outubro 2025",
+      "mes_key": "2025-10",
+      "receita_total": 25534.620000000003,
+      "total_vendas": 139,
+      "ticket_medio": 183.7023021582734
+    },
+    {
+      "mes": "Novembro 2025",
+      "mes_key": "2025-11",
+      "receita_total": 34541.01,
+      "total_vendas": 192,
+      "ticket_medio": 179.90109375
+    }
+  ],
+  "totais": {
+    "geral": {
+      "receita_total": 5536503.931,
+      "total_vendas": 2084,
+      "ticket_medio": 2656.6717519193858
+    },
+    "apple": {
+      "receita_total": 5333550.39,
+      "total_vendas": 1203,
+      "ticket_medio": 4433.541471321695
+    },
+    "acessorios": {
+      "receita_total": 202953.54100000003,
+      "total_vendas": 881,
+      "ticket_medio": 230.3672429057889
+    }
+  }
+}
